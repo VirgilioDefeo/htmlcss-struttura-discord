@@ -121,7 +121,20 @@ header {
 
 }
 
+.bg-green {
+    display:flex;
+    background-color: green;
+    padding: 20px;
+    height: 100px;
+}
 
 
+.footer-1, .footer-2{
+    color: white;
+    justify-content: space-between;
+    margin: auto;
+    border: 2px dashed black;
+    background-color: darkcyan;
+}
 
 /* footer */
