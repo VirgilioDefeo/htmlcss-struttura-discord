@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+/* LAYOUT */
+
+
+
+
+/* header */
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    background-color: aqua;
+    margin: 1px solid black;
+    /* debug */
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orange;
+    width: 80%;
+    padding: 15px;
+}
+
+/* stile per logo */
+.logo {
+    font-weight: bold;
+    background-color: orange;
+    padding: 10px;
+}
+
+/* contenitore link */
+.nav-links {
+    padding: 10px;
+    flex-direction: row;
+    margin: 0 10px;
+    font-weight: bold;
+    display: flex;
+}
+
+/* main*/
+
+
+
+/* footer */
